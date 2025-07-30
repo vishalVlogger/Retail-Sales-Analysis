@@ -53,6 +53,21 @@ This project simulates and analyses retail store sales data using **Pandas**, **
 
 ---
 
+## Screenshots
+1. **Monthly Revenue**:
+   - <img width="400" height="400" alt="monthly_revenue" src="https://github.com/user-attachments/assets/36b1a7c9-7201-4abc-bda0-9d7e8169e4e7" />
+   
+2. **Order Count by Category**:
+   - <img width="400" height="400" alt="order_count_by_category" src="https://github.com/user-attachments/assets/b7b0ebcf-3e70-4936-ad4c-481f80c62f8a" />
+
+3. **Sales Distribution**:
+   - <img width="400" height="400" alt="sales_distribution" src="https://github.com/user-attachments/assets/054c66bb-b862-458d-bbe6-a8251ef7e8a0" />
+
+4. **Corr Heatmap**:
+   - <img width="400" height="400" alt="corr_heatmap" src="https://github.com/user-attachments/assets/e50fc50c-0058-4a6e-95be-83129c4bdf93" />
+
+---
+
 ## 🔍 Insights Summary
 
 ### ✅ What's Performing Well
