@@ -1,0 +1,101 @@
+OrderId,CustomerID,Customer,Product,Quantity,Category,UnitPrice,Total
+1001,107,Riya,Sugar,1,Pantry,322,322
+1002,120,Vishal,Chicken,3,Meat,861,2583
+1003,115,Yogesh,Chees,4,Dairy,758,3032
+1004,111,Chirag,Soap,2,Personal Care,541,1082
+1005,108,Riya,Chees,1,Dairy,707,707
+1006,107,Riya,Toothpaste,4,Personal Care,868,3472
+1007,119,Amit,Potatoes,4,Vegetables,424,1696
+1008,111,Riya,Toothpaste,2,Personal Care,615,1230
+1009,111,Raj,Butter,3,Dairy,115,345
+1010,104,Piyush,Chees,3,Dairy,891,2673
+1011,108,Chirag,Soap,3,Personal Care,435,1305
+1012,103,Riya,Fish,4,Meat,858,3432
+1013,102,Amit,Bread,4,Bakery,357,1428
+1014,112,Raj,Milk,4,Dairy,596,2384
+1015,106,Sneha,Bread,1,Bakery,995,995
+1016,102,Piyush,Milk,2,Dairy,259,518
+1017,101,Piyush,Potatoes,4,Vegetables,574,2296
+1018,112,Chirag,Soap,2,Personal Care,951,1902
+1019,112,Piyush,Chicken,2,Meat,763,1526
+1020,117,Riya,Salt,3,Pantry,789,2367
+1021,110,Amit,Chees,1,Dairy,774,774
+1022,116,Piyush,Shampoos,4,Personal Care,479,1916
+1023,115,Piyush,Milk,3,Dairy,644,1932
+1024,115,Sneha,Soap,3,Personal Care,790,2370
+1025,119,Sneha,Oranges,4,Fruits,526,2104
+1026,112,Vishal,Detergent,2,Household,712,1424
+1027,120,Raj,Potatoes,3,Vegetables,367,1101
+1028,103,Riya,Sugar,2,Pantry,934,1868
+1029,105,Piyush,Sugar,1,Pantry,676,676
+1030,119,Yogesh,Tomatoes,2,Vegetables,516,1032
+1031,107,Piyush,Detergent,1,Household,267,267
+1032,109,Amit,Chicken,2,Meat,941,1882
+1033,107,Vishal,Butter,3,Dairy,142,426
+1034,118,Raj,Milk,3,Dairy,655,1965
+1035,104,Yogesh,Onions,1,Vegetables,384,384
+1036,114,Vishal,Milk,4,Dairy,496,1984
+1037,118,Chirag,Rice,1,Grains,111,111
+1038,109,Raj,Soap,1,Personal Care,706,706
+1039,102,Piyush,Detergent,2,Household,401,802
+1040,120,Piyush,Bread,2,Bakery,997,1994
+1041,115,Raj,Chees,1,Dairy,352,352
+1042,107,Piyush,Shampoos,3,Personal Care,598,1794
+1043,112,Riya,Shampoos,2,Personal Care,853,1706
+1044,108,Raj,Oranges,4,Fruits,134,536
+1045,115,Vishal,Potatoes,2,Vegetables,826,1652
+1046,103,Raj,Sugar,2,Pantry,948,1896
+1047,114,Yogesh,Chees,4,Dairy,189,756
+1048,117,Piyush,Fish,1,Meat,875,875
+1049,104,Riya,Rice,4,Grains,704,2816
+1050,118,Riya,Shampoos,1,Personal Care,701,701
+1051,108,Chirag,Potatoes,1,Vegetables,517,517
+1052,104,Vishal,Chees,1,Dairy,214,214
+1053,102,Sneha,Milk,4,Dairy,716,2864
+1054,106,Sneha,Milk,1,Dairy,295,295
+1055,110,Raj,Chees,3,Dairy,925,2775
+1056,104,Chirag,Toothpaste,4,Personal Care,600,2400
+1057,118,Amit,Apple,3,Fruits,725,2175
+1058,112,Raj,Chees,1,Dairy,592,592
+1059,102,Chirag,Chicken,2,Meat,174,348
+1060,110,Vishal,Potatoes,1,Vegetables,512,512
+1061,104,Vishal,Toothpaste,3,Personal Care,475,1425
+1062,114,Vishal,Onions,3,Vegetables,519,1557
+1063,116,Vishal,Butter,4,Dairy,828,3312
+1064,115,Vishal,Apple,2,Fruits,376,752
+1065,108,Chirag,Butter,4,Dairy,860,3440
+1066,114,Chirag,Shampoos,3,Personal Care,775,2325
+1067,108,Riya,Chicken,1,Meat,493,493
+1068,116,Yogesh,Milk,2,Dairy,968,1936
+1069,113,Sneha,Fish,1,Meat,556,556
+1070,118,Piyush,Bananas,1,Fruits,291,291
+1071,115,Vishal,Soap,2,Personal Care,838,1676
+1072,113,Amit,Salt,4,Pantry,788,3152
+1073,109,Piyush,Apple,1,Fruits,198,198
+1074,115,Chirag,Chees,3,Dairy,647,1941
+1075,113,Amit,Toothpaste,1,Personal Care,195,195
+1076,101,Amit,Tomatoes,2,Vegetables,763,1526
+1077,107,Amit,Salt,2,Pantry,762,1524
+1078,109,Riya,Bread,2,Bakery,289,578
+1079,101,Chirag,Tomatoes,4,Vegetables,835,3340
+1080,112,Amit,Milk,1,Dairy,136,136
+1081,108,Vishal,Chicken,4,Meat,879,3516
+1082,111,Raj,Potatoes,4,Vegetables,468,1872
+1083,119,Amit,Soap,2,Personal Care,794,1588
+1084,117,Riya,Potatoes,2,Vegetables,624,1248
+1085,108,Piyush,Oranges,4,Fruits,378,1512
+1086,103,Chirag,Detergent,1,Household,316,316
+1087,103,Yogesh,Onions,3,Vegetables,966,2898
+1088,101,Riya,Butter,4,Dairy,972,3888
+1089,105,Amit,Butter,1,Dairy,897,897
+1090,110,Chirag,Detergent,2,Household,372,744
+1091,107,Raj,Shampoos,2,Personal Care,980,1960
+1092,109,Amit,Apple,1,Fruits,161,161
+1093,107,Riya,Sugar,3,Pantry,695,2085
+1094,109,Sneha,Onions,2,Vegetables,979,1958
+1095,108,Vishal,Bananas,2,Fruits,828,1656
+1096,112,Yogesh,Rice,2,Grains,441,882
+1097,102,Piyush,Milk,1,Dairy,496,496
+1098,101,Riya,Chicken,4,Meat,798,3192
+1099,116,Chirag,Oranges,2,Fruits,118,236
+1100,105,Yogesh,Oranges,4,Fruits,276,1104
